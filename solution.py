@@ -1,4 +1,4 @@
-#quantcast test
+
 #author Yik Lun Chan
 # 2/5/2016
 import sys
